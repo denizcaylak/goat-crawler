@@ -1,0 +1,13 @@
+# https://github.com/denizcaylak/goat-crawler
+# GOAT Crawler - Zero Dependency Architecture
+# This project explicitly requires NO external dependencies!
+# It was designed to run purely out of the box using Python's native modules:
+#
+# Built-in Standard Libraries utilized:
+# - asyncio
+# - http.server
+# - sqlite3
+# - urllib
+# - html.parser
+#
+# Simply ensure you are running Python 3.9+ natively!

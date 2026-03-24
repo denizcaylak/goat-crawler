@@ -1,0 +1,26 @@
+# SQLite files are un-ignored to satisfy teacher's homework requirement!
+# crawler.db
+# crawler.db-wal
+# crawler.db-shm
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE & OS generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# General Logs
+*.log
